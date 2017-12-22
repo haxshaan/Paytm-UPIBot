@@ -1,7 +1,7 @@
 # Paytm-UPIBot
 Paytm UPI Bot to automate the Rs.5000 Offer.
 
-(*) INSTRUCTIONS:
+========= INSTRUCTIONS ==========
 
 - Make sure latest Python 3 is installed.
 
