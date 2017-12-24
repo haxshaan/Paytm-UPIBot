@@ -15,6 +15,8 @@ Paytm UPI Bot to automate the Rs.5000 Offer.
     * This is due to adb server initialization.
     * In such case please restart the bot.
     
+ - Get the name of your device using "adb devices". And paste in the script when asked.
+    
 - The Bot has a screen timeout lock feature. To disable this run "adb shell svc power stayon false" command.
 
 - Press CTRL + C anytime to interrupt.
